@@ -4,6 +4,7 @@ Have you done a multivariate logistic regression using R?
 Are your predictor variables dichotomous?
 
 Then you can use ```forest_odds.R``` to directly output a figure like this:
+
 ![](demo.png)
 
 This is a [forest plot](https://en.wikipedia.org/wiki/Forest_plot) of odds ratios with their confidence intervals.
@@ -14,6 +15,7 @@ But using ```forest_odds.R``` has a number of benefits:
 - Automatically flip odds ratios, CIs and labels, so that odds ratios are all > 1
 - Figure includes a pair of labels for the levels of each factor
 - Figure elements alternate in colour across factors for easy visualization
+- Automatically displays significance stars for each factor
 - Options for font sizes and so on, if you want to change anything
 
 # Prerequisites
