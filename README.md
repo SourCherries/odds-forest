@@ -56,4 +56,5 @@ After you run your script, you'll get a new file with your figure in it.
 UCLA's Institute for Digital Research and Education makes available [various textbook datasets](https://stats.idre.ucla.edu/other/examples/). The particular dataset we use is from a commonly used textbook on logistic regression: Applied Logistic Regression (Second Edition) by David Hosmer and Stanley Lemeshow.
 
 # Citation
-If you use this R function to produce a figure that is published, please cite the following paper: **NEED TO FILL THIS IN LATER**
+If you use this R function to produce a figure that is published, please cite the following paper:
+> Thomas, J., Barbato, M., Verlinden, M., Gaspar, C., Moussa, M., Ghorayeb, J., Menon, A., Figueiras, M.J, Arora, T., & Bentall, R. P. (2020). Psychosocial Correlates of Depression and Anxiety in the United Arab Emirates During the COVID-19 Pandemic. Frontiers in Psychiatry, 11, 1248. https://doi.org/10.3389/fpsyt.2020.564172
